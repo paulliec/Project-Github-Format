@@ -1,10 +1,7 @@
 ---
-
 title: "Capstone Project: Data Breaches at Hipaa Covered Entities"
-output: 
-github_document
- 
-
+output: github_document
+code folding: hide
 ---
 ## Analysis of Data Breaches of HIPAA Covered Entities (CE)
 The Board of Directors at a regional health care provider has concerns over their potential exposure to a data breach leading to loss of patient information.  They asked a cyber security company I contract for to review publicly available data to determine what, if any, commonality there is among different data breaches.  If there are areas where it would make sense to focus, the organization’s IT security team will dig deeper in an attempt to mitigate their risk and exposure.
